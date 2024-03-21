@@ -121,32 +121,6 @@ if __name__ == '__main__':
 
 
 
-# evask — ma 15:34-kor
-# import json
-# file_path = 'akami.json'
-#
-# with open(file_path) as file:
-#     data = json.load(file)
-#
-# for i in data['bela']:
-#     print(i)
-# a for ciklus már csak mellékes
-
-
-
-# def get_win_dir(dir):
-#     base_dir = {'N': 'Észak',
-#                 'S': 'Dél',
-#                 'W': 'Nyugat',
-#                 'E': 'Kelet', }
-#     if len(dir) == 1:
-#         return base_dir[dir].capitalize()
-#     if len(dir) == 2:
-#         return base_dir[dir[0]].capitalize() + "-" + base_dir[dir[1]]
-#     if len(dir) == 3:
-#         return base_dir[dir[0]].capitalize() + "-" + base_dir[dir[1]] + base_dir[dir[2]].lower()
-
-
 
 
 
